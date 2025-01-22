@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jackson-denicore-portfolio/static/css/main.3c9ce299.css",
-    "main.js": "/jackson-denicore-portfolio/static/js/main.226502fb.js",
+    "main.js": "/jackson-denicore-portfolio/static/js/main.1c9e5e69.js",
     "index.html": "/jackson-denicore-portfolio/index.html",
     "main.3c9ce299.css.map": "/jackson-denicore-portfolio/static/css/main.3c9ce299.css.map",
-    "main.226502fb.js.map": "/jackson-denicore-portfolio/static/js/main.226502fb.js.map"
+    "main.1c9e5e69.js.map": "/jackson-denicore-portfolio/static/js/main.1c9e5e69.js.map"
   },
   "entrypoints": [
     "static/css/main.3c9ce299.css",
-    "static/js/main.226502fb.js"
+    "static/js/main.1c9e5e69.js"
   ]
 }
