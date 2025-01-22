@@ -14,6 +14,7 @@ function App() {
         <div>
           <Switch>
             <Route index element={<Home />} />
+            <Route path = "/" element={<Home />} />
             <Route path = "/home" element={<Home />} />
             <Route path = "/crystal-set-radio" element={<Project1 />} />
             <Route path = "/digital-circuit-design" element={<Project2 />} />
