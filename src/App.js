@@ -10,7 +10,7 @@ import Project4 from "./components/pages/Project4";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/jackson-denicore-portfolio">
         <div>
           <Switch>
             <Route index element={<Home />} />
