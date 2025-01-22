@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jdenicore/jackson-denicore-portfolio/static/css/main.3c9ce299.css",
-    "main.js": "/jdenicore/jackson-denicore-portfolio/static/js/main.415c8b80.js",
-    "index.html": "/jdenicore/jackson-denicore-portfolio/index.html",
-    "main.3c9ce299.css.map": "/jdenicore/jackson-denicore-portfolio/static/css/main.3c9ce299.css.map",
-    "main.415c8b80.js.map": "/jdenicore/jackson-denicore-portfolio/static/js/main.415c8b80.js.map"
+    "main.css": "/jackson-denicore-portfolio/static/css/main.3c9ce299.css",
+    "main.js": "/jackson-denicore-portfolio/static/js/main.415c8b80.js",
+    "index.html": "/jackson-denicore-portfolio/index.html",
+    "main.3c9ce299.css.map": "/jackson-denicore-portfolio/static/css/main.3c9ce299.css.map",
+    "main.415c8b80.js.map": "/jackson-denicore-portfolio/static/js/main.415c8b80.js.map"
   },
   "entrypoints": [
     "static/css/main.3c9ce299.css",
