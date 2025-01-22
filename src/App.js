@@ -12,7 +12,6 @@ function App() {
     <div className="App">
       <Router>
         <div>
-          {/* <HomeNavbar /> */}
           <Switch>
             <Route index element={<Home />} />
             <Route path = "/home" element={<Home />} />
@@ -20,7 +19,7 @@ function App() {
             <Route path = "/digital-circuit-design" element={<Project2 />} />
             <Route path = "/cpu" element={<Project3 />} />
             <Route path = "/d&e" element={<Project4 />} />
-            <Route path="*" element={<div>404 Not Found</div>}></Route>
+            <Route path="*" element={<div>wack</div>}></Route>
           </Switch>
         </div>
       </Router>
