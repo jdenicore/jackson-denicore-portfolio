@@ -58,7 +58,7 @@ function HomeNavbar() {
               offset={-70}
               duration={500}
               to={{
-                pathname: "/home",
+                pathname: "/",
                 hash: "#heroSection"
               }}
               className="navbar--content"
@@ -75,7 +75,7 @@ function HomeNavbar() {
               offset={-70}
               duration={500}
               to={{
-                pathname: "/home",
+                pathname: "/",
                 hash: "#mySkills"
               }}
               className="navbar--content"
@@ -92,7 +92,7 @@ function HomeNavbar() {
               offset={-70}
               duration={500}
               to={{
-                pathname: "/home",
+                pathname: "/",
                 hash: "#MyPortfolio"
               }}
               className="navbar--content"

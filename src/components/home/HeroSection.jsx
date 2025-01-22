@@ -19,7 +19,7 @@ export default function HeroSection() {
         </div>
       </div>
       <div className="hero--section--img">
-        <img src="./img/Senior Photo.jpg" alt="Hero Section" />
+        <img src={`${process.env.PUBLIC_URL}/img/Senior Photo.jpg`} alt="Headshot" />
       </div>
     </section>
   );

@@ -2,31 +2,31 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/cpp-logo.png",
+      "src": "/img/cpp-logo.png",
       "title": "C/C++",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     },
     {
       "id": "2",
-      "src": "./img/matlab-logo.png",
+      "src": "/img/matlab-logo.png",
       "title": "MatLab",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     },
     {
       "id": "3",
-      "src": "./img/qp-logo.png",
+      "src": "/img/qp-logo.png",
       "title": "Quartus Prime",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     },
     {
       "id": "4",
-      "src": "./img/react-logo.png",
+      "src": "/img/react-logo.png",
       "title": "React.js",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     },
     {
       "id": "5",
-      "src": "./img/office365.png",
+      "src": "/img/office365.png",
       "title": "MS Applications",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     }
@@ -34,7 +34,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/CrystalSetPics/Radios.png",
+      "src": "/img/CrystalSetPics/Radios.png",
       "title": "Crystal Set Radio",
       "description": "Crystal set radio targeting the radio frequency 680 kHz with an inductor that allows for manual tuning.",
       "link": "View Project",
@@ -42,7 +42,7 @@
     },
     {
       "id": "2",
-      "src": "./img/circuit-ex.jpg",
+      "src": "/img/circuit-ex.jpg",
       "title": "Rock Paper Scissors",
       "description": "Two-player rock-paper-scissor game created on a breadboard and then transferred to an FPGA.",
       "link": "View Project",
@@ -51,7 +51,7 @@
     },
     {
       "id": "3",
-      "src": "./img/fpga.jpg",
+      "src": "/img/fpga.jpg",
       "title": "Simple CPU",
       "description": "CPU composed of a 9-bit processor, memory module, and counter. Implemented on a DE10-Lite FPGA.",
       "link": "View Project",
@@ -59,7 +59,7 @@
     },
     {
       "id": "4",
-      "src": "./img/de.jpg",
+      "src": "/img/de.jpg",
       "title": "D&E: Sustainable Food Systems",
       "description": "Potential solutions to make food systems more sustainable at the University of Pittsburgh based on student interviews.",
       "link": "View Project",
