@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/Pitt-SSOE-logo-small.png" alt="Logoipsum" />
+          <img src={`${process.env.PUBLIC_URL}/img/Pitt-SSOE-logo-small.png`} alt="Logoipsum" />
         </div>
         {/* <div className="footer--items">
           <ul>
