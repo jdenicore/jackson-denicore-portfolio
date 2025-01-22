@@ -10,12 +10,11 @@ import Project4 from "./components/pages/Project4";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/jackson-denicore-portfolio">
         <div>
           <Switch>
             <Route index element={<Home />} />
             <Route path = "/" element={<Home />} />
-            <Route path = "/home" element={<Home />} />
             <Route path = "/crystal-set-radio" element={<Project1 />} />
             <Route path = "/digital-circuit-design" element={<Project2 />} />
             <Route path = "/cpu" element={<Project3 />} />
