@@ -1,0 +1,185 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/cpp-logo.png",
+      "title": "C/C++",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/matlab-logo.png",
+      "title": "MatLab",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/qp-logo.png",
+      "title": "Quartus Prime",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/react-logo.png",
+      "title": "React.js",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "5",
+      "src": "./img/office365.png",
+      "title": "MS Applications",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/CrystalSetPics/Radios.png",
+      "title": "Crystal Set Radio",
+      "description": "Crystal set radio targeting the radio frequency 680 kHz with an inductor that allows for manual tuning.",
+      "link": "View Project",
+      "path": "crystal-set-radio"
+    },
+    {
+      "id": "2",
+      "src": "./img/circuit-ex.jpg",
+      "title": "Rock Paper Scissors",
+      "description": "Two-player rock-paper-scissor game created on a breadboard and then transferred to an FPGA.",
+      "link": "View Project",
+      "path": "digital-circuit-design"
+      
+    },
+    {
+      "id": "3",
+      "src": "./img/fpga.jpg",
+      "title": "Simple CPU",
+      "description": "CPU composed of a 9-bit processor, memory module, and counter. Implemented on a DE10-Lite FPGA.",
+      "link": "View Project",
+      "path": "cpu"
+    },
+    {
+      "id": "4",
+      "src": "./img/de.jpg",
+      "title": "D&E: Sustainable Food Systems",
+      "description": "Potential solutions to make food systems more sustainable at the University of Pittsburgh based on student interviews.",
+      "link": "View Project",
+      "path": "d&e"
+    }
+  ],
+  "radio": [
+    {
+      "id": "1",
+      "src": "./img/CrystalSetPics/Inductor.png",
+      "title": "Inductor",
+      "description": "I started by creating an inductor out of wire wrapped around a section of PVC pipe. I could manually tune this inductor by adding or removing loops of wire."
+    },
+    {
+      "id": "2",
+      "src": "./img/CrystalSetPics/Capacitor.png",
+      "title": "Capacitor",
+      "description": "After calculating the inductance, I created a capacitor out of aluminum foil on either side of a sheet of paper with a capacitance that would satisfy the equation f = 1/[2π(LC)^1/2]."
+    },
+    {
+      "id": "3",
+      "src": "./img/CrystalSetPics/Circuit-sized.png",
+      "title": "Complete Circuit",
+      "description": "Finally, I assembled the full circuit which included the inductor and capcitor I had built, as well as a 3 volt battery, antenae, germanium diode, and piezoelectric earphone."
+    }
+  ],
+  "digital-circuits-1": [
+    {
+      "id": "1",
+      "src": "./img/201Labs/RPS.png",
+      "title": "Rock Paper Scissors",
+      "description": "Allows for two users to play rock-paper-scissors using two buttons. LEDS indicate which player wins, or if either player has not made any inputs."
+    },
+    {
+      "id": "2",
+      "src": "./img/201Labs/2-bit Multiplier.png",
+      "title": "2-Bit Multiplier",
+      "description": "User can input two values equaling 1, 2, or 3 using a DIP Input component. LEDs display result of multiplication in binary."
+    }
+  ],
+  "digital-circuits-2": [
+    {
+      "id": "1",
+      "src": "./img/201Labs/XOR Circuit.png",
+      "title": "XOR Gate",
+      "description": "Circuit design for an XOR Gate without using and XOR logic chip. LED turns on when either buttons is pushed, but not when both are pushed."
+    },
+    {
+      "id": "2",
+      "src": "./img/201Labs/CMOS NAND.png",
+      "title": "CMOS NAND Gate",
+      "description": "Using NMOS and PMOS transistors, created a circuit where the LED is on by default, but turns off if either of the buttons are pushed."
+    }
+  ],
+  "rps": [
+    {
+      "id": "1",
+      "src": "./img/201Labs/RPS/kmaps+equations.png",
+      "title": "Kmaps & Equations",
+      "description": "Circuit design for an XOR Gate without using and XOR logic chip. LED turns on when either buttons is pushed, but not when both are pushed."
+    },
+    {
+      "id": "2",
+      "src": "./img/201Labs/RPS/model.png",
+      "title": "Circuit Diagram",
+      "description": "Using NMOS and PMOS transistors, created a circuit where the LED is on by default, but turns off if either of the buttons are pushed."
+    }
+  ],
+  "rps_vhdl": [
+    {
+      "id": "2",
+      "src": "./img/201Labs/RPS/RPSCode.png",
+      "title": "Code",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "1",
+      "src": "./img/201Labs/RPS/RTS.png",
+      "title": "RTL Viewer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "processor": [
+    {
+      "id": "1",
+      "src": "./img/201Labs/cpu/processor_instructions.png",
+      "title": "Instructions",
+      "description": "Using NMOS and PMOS transistors, created a circuit where the LED is on by default, but turns off if either of the buttons are pushed."
+    },
+    {
+      "id": "2",
+      "src": "./img/201Labs/cpu/processor_diagram.png",
+      "title": "Diagram",
+      "description": "Circuit design for an XOR Gate without using and XOR logic chip. LED turns on when either buttons is pushed, but not when both are pushed."
+    }
+  ],
+  "prototypes": [
+    {
+      "id": "1",
+      "src": "./img/proto-1.jpg",
+      "title": "Build Your Own Meal Machine",
+      "description": "The user accesses an interface after being recognized, enters their name and school ID, and selects locally sourced ingredients or premade meals. Limited combinations are available, and nutritional facts are provided before payment. Once paid, the meal is quickly served, offering a healthy, campus-made dining experience.",
+      "link": "View Project",
+      "path": "crystal-set-radio"
+    },
+    {
+      "id": "2",
+      "src": "./img/proto-2.jpg",
+      "title": "Calorie Counter",
+      "description": "​This is an app that connects to your Pitt ID to automatically log meals and track nutritional information. It will also display the options at University dining halls to allow for manual logging. This information is anonymously shared with the University to help them better predict the dietary needs of the student body so less food goes to waste.",
+      "path": "digital-circuit-design"
+      
+    },
+    {
+      "id": "3",
+      "src": "./img/proto3.png",
+      "title": "Healthy Snack Stand",
+      "description": "This mini dining hall offers healthy snacks like fresh fruit and granola bars in a convenient, sustainable way. Located in a high-traffic area, it features an ID scanner that deducts one meal or Dining Dollars/Panther Funds upon entry. Students can quickly grab healthy snacks in a reusable to-go box that must be brought back.",
+      "link": "View Project",
+      "path": "cpu"
+    }
+  ]
+}
