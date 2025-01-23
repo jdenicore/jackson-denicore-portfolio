@@ -14,7 +14,7 @@ export default function HeroSection() {
             <br /> University of Pittsburgh, Swanson School of Engineering
           </p>
           <div>
-            <a href="/1-8-2025 Resume.pdf" className="btn btn-github" target="_blank" rel="noopener noreferrer" style={{ marginTop: '20px' }}>Resume</a>
+            <a href="/Resume.pdf" className="btn btn-github" target="_blank" rel="noopener noreferrer" style={{ marginTop: '20px' }}>Resume</a>
           </div>
         </div>
       </div>
